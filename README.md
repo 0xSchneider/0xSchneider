@@ -17,10 +17,6 @@ Sou um entusiasta da tecnologia focado em construir soluções robustas e aprend
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 
-### 🏆 Projeto em Destaque
-**[RPG Battle Simulator (Java CLI)](LINK_DO_SEU_REPO_AQUI)**
-> Um motor de batalha por turnos que utiliza Polimorfismo, Herança e Interfaces para gerenciar mecânicas de combate entre diferentes classes de personagens.
-
 ---
 
 ### 📫 Como me encontrar:
