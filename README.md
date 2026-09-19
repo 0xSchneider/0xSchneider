@@ -2,29 +2,26 @@
 
 ### 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS) @ Feevale
 
-Sou um entusiasta da tecnologia focado em construir soluções robustas e aprender as melhores práticas de desenvolvimento de software. Atualmente, estou mergulhando fundo no ecossistema Java e explorando como a Orientação a Objetos pode resolver problemas reais de arquitetura.
+Trabalho hoje com automação de processos e estou aprofundando em Java para entender arquitetura de backend. Também curioso por engenharia reversa e segurança ofensiva nas horas livres.
 
 ---
 
 ### 🚀 O que estou fazendo agora?
-- 📚 Cursando o Tecnólogo em ADS na **Feevale**.
-- ☕ Aprimorando meus conhecimentos em **Java** (Spring Boot, JUnit, POO Avançada).
-- 🏗️ Construindo projetos que conectam lógica de Backend com interfaces modernas (React/Vite).
+- ☕ Construindo uma API REST em **Spring Boot** do zero: CRUD completo (GET, POST, PUT, DELETE), entidade mapeada com JPA e handler global de exceções
+- 📚 Cursando o Tecnólogo em ADS na **Feevale**
+- ⚙️ No trabalho, desenvolvo automações de processos administrativos com Power Automate Premium e integrações via APIs.
+- 🔎 Estudando engenharia reversa e debugging de processos (x64dbg, Ghidra)
+- 🔜 Próximos passos no roadmap: persistência real com MySQL, Spring Security com JWT e testes com JUnit/Mockito
 
 ### 🛠️ Tecnologias e Ferramentas
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Ghidra](https://img.shields.io/badge/Ghidra-546E8A?style=for-the-badge&logo=data:image/png;base64,&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 
 ---
 
 ### 📫 Como me encontrar:
 - **Email:** eduardocastroaz@gmail.com
-
----
-
-### 📊 Estatísticas do GitHub
-![Estatísticas do Eduardo](https://github-readme-stats.vercel.app/api?username=0xSchneider&show_icons=true&theme=dracula)
-
-*"O código é a poesia que o computador entende."*
